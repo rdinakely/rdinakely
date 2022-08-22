@@ -3,7 +3,7 @@
 - 💼 I'm actually an Angular developer
 - 🌱 I’m currently learning TDD, Reactive programming
 - 👨‍💻 My preferred code editor/IDE: VSCode and WebStorm
-- 📫 How to reach me: https://twitter.com/rdinakely
+- 📫 How to reach me: https://twitter.com/rdinakely - https://www.instagram.com/drakotonirina
 - 🧑 Pronouns: He/Him
 
 <!---
