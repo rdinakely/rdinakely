@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript/Typescript stuffs
 - 💼 I'm actually an Angular developer
 - 🌱 I’m currently learning TDD, Reactive programming
-- 👨‍💻 My preferred code editor/IDE: VSCode and WebStorm
+- 👨‍💻 My preferred code editor/IDE: VSCode and WebStorm/PHPStorm
 - 📫 How to reach me: [Twitter](https://twitter.com/rdinakely) - [Instagram](https://www.instagram.com/drakotonirina) - [Linkedin](https://www.linkedin.com/in/rdinakely/)
 - 🧑 Pronouns: He/Him
 
